@@ -1,4 +1,4 @@
-# [百度mathematica吧](tieba.baidu.com/mathematica)精品贴备份
+# [百度mathematica吧](https://tieba.baidu.com/mathematica)精品贴备份
 
 请访问 https://ryaliu.github.io/mma_ba_backup/ 来查看备份，最近一次备份日期是 2020年02月18日 上午10:33。
 
